@@ -1,4 +1,11 @@
-<body> <parca>
+<body>
+	<parca>
 		<isim> Selen </isim>
 		<numara> 121101</numara>
-</parca> </body>
+		
+	</parca>
+	<parca>
+		<isim>Ernist</isim>
+		<numara>09877</numara>
+	</parca>
+</body>
